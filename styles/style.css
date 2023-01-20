@@ -1,3 +1,7 @@
 .previous-btn,.next-btn{
     background-color: red;
 }
+
+.carosoul-title {
+    padding: 5% 15%;
+}
